@@ -10,10 +10,28 @@ To summarize the backend setup (see README of that repository for more details):
     - add your password to the password file to connect to MySQL Workbench
     - open the python 'app.py' file and run the file
 
-Launch the E-Commerce-API-React folder within your IDE, navigate to the terminal within the react project by typing:
-'cd e-commerce-api-react-project'
-Launch the project by typing:
-'npm run dev' navigate to the page returned by the terminal. You are now at the homepage of the React project! Welcome!
+## How to install and run
+
+First, you need to clone down the project using this command here: 
+```bash
+    git clone git@github.com:gcland/E-Commerce-API-react.git
+```
+
+Next cd into the directory: 
+```bash
+    cd E-Commerce-API-react
+    cd e-commerce-api-react-project
+```
+
+Next do the installations. These can be found in the package.json file. Run the following command to download assuming node.js is installed: 
+```bash
+    npm i
+```
+
+To run: 
+```bash
+    npm run dev
+```
 
 You will open to the home page which features a navigation bar across the top with several links:
 - Home
