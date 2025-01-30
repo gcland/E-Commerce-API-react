@@ -2,6 +2,8 @@
 
 Welcome to E-Commerce API: A React project by Grant Copeland
 
+![screenshot](E-Commerce-App LandingPg.png)
+
 Start by downloading all files and the Module 6 Flask Project also created by myself located here: https://github.com/gcland/Mod06-Mini-Project
 This sets up the backend-API used within the react project.
 
